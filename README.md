@@ -21,6 +21,6 @@ Performing CRUD operations on a user resource of the following format and valida
     "company": {
       "name": "Cupcake-Factory",
       "catchPhrase": "If Charlie can, why not Arthur?",
-      "bs": "e-enable strategic applicationsString of strings"
+      "bs": "String of strings"
     }
   }
